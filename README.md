@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 Haditya</h1>
+<h1 align="center">👋 Haditya</h1>
 <h3 align="center">A student from Indonesia — Telkom University</h3>
 
 <!-- GIF CHIBI -->
