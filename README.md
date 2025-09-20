@@ -3,7 +3,7 @@
 
 <!-- GIF CHIBI -->
 <p align="center">
-  <img src="./haditya-chibi.gif" alt="Haditya chibi" width="220" />
+  <img src="./one-piece-gif-3.gif" alt="Haditya chibi" width="220" />
 </p>
 
 <!-- Profile Views -->
