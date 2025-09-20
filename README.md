@@ -54,7 +54,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haditya06&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="haditya06" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haditya06&show_icons=true&locale=en&theme=tokyonight" alt="haditya06" /></p>
+<p>&nbsp;<img align="buttom" src="https://github-readme-stats.vercel.app/api?username=haditya06&show_icons=true&locale=en&theme=tokyonight" alt="haditya06" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haditya06&theme=tokyonight" alt="haditya06" /></p>
 
