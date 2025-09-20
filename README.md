@@ -58,3 +58,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haditya06&theme=tokyonight" alt="haditya06" /></p>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haditya06/haditya06/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haditya06/haditya06/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/haditya06/haditya06/output/pacman-contribution-graph.svg">
+</picture>
+
