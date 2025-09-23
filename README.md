@@ -3,14 +3,8 @@
 
 <!-- GIF CHIBI -->
 <p align="center">
-  <img src="./one-piece-gif-3.gif" alt="Haditya chibi" width="220" />
-</p>
-
-<p align="left">
-  <img src="./one-piece-gif-3.gif" alt="Haditya chibi" width="220" />
-</p>
-
-<p align="right">
+  <img src="./one-piece-gif-1.gif" alt="Haditya chibi" width="220" />
+  <img src="./one-piece-gif-2.gif" alt="Haditya chibi" width="220" />
   <img src="./one-piece-gif-3.gif" alt="Haditya chibi" width="220" />
 </p>
 
