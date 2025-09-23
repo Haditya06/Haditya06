@@ -8,7 +8,7 @@
       <img src="./one-piece-gif-1.gif" alt="Haditya chibi" width="220" />
     </td>
     <td align="center">
-      <img src="./one-piece-gif-2.gif" alt="Haditya chibi" width="220" />
+      <img src="./one-piece-gif-3.gif" alt="Haditya chibi" width="220" />
     </td>
     <td align="right">
       <img src="./one-piece-gif-3.gif" alt="Haditya chibi" width="220" />
