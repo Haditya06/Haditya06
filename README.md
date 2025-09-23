@@ -6,6 +6,14 @@
   <img src="./one-piece-gif-3.gif" alt="Haditya chibi" width="220" />
 </p>
 
+<p align="left">
+  <img src="./one-piece-gif-3.gif" alt="Haditya chibi" width="220" />
+</p>
+
+<p align="right">
+  <img src="./one-piece-gif-3.gif" alt="Haditya chibi" width="220" />
+</p>
+
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=haditya06&label=Profile%20views&color=0e75b6&style=flat" alt="haditya06" />
