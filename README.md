@@ -2,7 +2,7 @@
 <h3 align="center">A student from Indonesia — Telkom University</h3>
 
 <!-- GIF CHIBI -->
-<table>
+<table align="center">
   <tr>
     <td align="left">
       <img src="./zoro-gif-2.gif" alt="Haditya chibi" width="220" />
