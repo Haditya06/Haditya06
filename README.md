@@ -5,10 +5,10 @@
 <table align="center">
   <tr>
     <td align="left">
-      <img src="./zoro-gif-2.gif" alt="Haditya chibi" width="220" />
+      <img src="./kucing.gif" alt="Haditya chibi" width="220" />
     </td>
     <td align="center">
-      <img src="./kucing.gif" alt="Haditya chibi" width="220" />
+      <img src="./zoro-gif-2.gif" alt="Haditya chibi" width="220" />
     </td>
     <td align="right">
       <img src="./mario.gif" alt="Haditya chibi" width="220" />
