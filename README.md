@@ -42,6 +42,9 @@
   <a href="https://instagram.com/haditya.0_0" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haditya.0_0" height="30" width="40" />
   </a>
+   <a href="https://www.linkedin.com/in/haditya" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Haditya LinkedIn" height="30" width="40" />
+   </a>
 </p>
 
 ---
