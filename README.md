@@ -4,7 +4,7 @@
 <!-- GIF CHIBI -->
 <table align="center">
   <tr>
-    <td align="left">
+    <td align="left"> 
       <img src="./kucing.gif" alt="Haditya chibi" width="220" />
     </td>
     <td align="center">
