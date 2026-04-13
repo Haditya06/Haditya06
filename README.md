@@ -63,14 +63,6 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haditya06&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="haditya06" />
-</p>
-
-<p>&nbsp;<img align="buttom" src="https://github-readme-stats.vercel.app/api?username=haditya06&show_icons=true&locale=en&theme=tokyonight" alt="haditya06" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haditya06&theme=tokyonight" alt="haditya06" /></p>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haditya06/haditya06/output/pacman-contribution-graph-dark.svg">
