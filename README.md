@@ -1,7 +1,7 @@
 <h1 align="center">👋 Haditya</h1>
 <h3 align="center">A student from Indonesia — Telkom University</h3> 
  
-<!-- GIF CHIBI --> 
+<!-- GIF CHIBI -->  
 <table align="center">
   <tr>
     <td align="left"> 
